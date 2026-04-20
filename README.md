@@ -313,6 +313,12 @@ Los resultados demuestran que se han alcanzado todos los objetivos:
 - ✓ Historial de comandos documentado
 
 ---
+##imagenes y links
+<img width="921" height="803" alt="image" src="https://github.com/user-attachments/assets/a7d78240-7f25-4d73-8878-1e670f9ebd7b" />
+<img width="921" height="803" alt="image" src="https://github.com/user-attachments/assets/5929d8cc-759e-452b-b26b-e008abca16f1" />
+https://youtube.com/shorts/h8wN_BC4ALA?si=ZdeaBtKDh_eI7CEC
+
+
 
 ## 10. Bibliografía
 
